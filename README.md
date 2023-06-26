@@ -51,6 +51,6 @@ These are just some of the few tools that can be utilized to help you be profici
 
 ## Technical Documentation 🛠 
 
-[Team A - AWS Technical Documentation](https://docs.google.com/document/d/1dEt010KAPSTOcSzrZFoXH3yVfqiua8XQ9uxhl7OWpwU/edit?usp=share_link)
+[Team A - AWS Technical Documentation](https://docs.google.com/document/d/1vA8POt7U5oYkHoo9ynF3eQVp-JEVdlCB/edit)
 
 <!-- END -->
